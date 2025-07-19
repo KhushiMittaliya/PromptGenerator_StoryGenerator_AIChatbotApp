@@ -14,7 +14,7 @@ An AI-powered Streamlit web application that brings together three creative and 
 - Fully offline – no API needed
 
 
- ##Future Improvements
+## **Future Improvements**
 Add text-to-speech for story prompts
 
 Save user session history
