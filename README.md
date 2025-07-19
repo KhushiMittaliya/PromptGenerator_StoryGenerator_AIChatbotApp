@@ -13,6 +13,16 @@ An AI-powered Streamlit web application that brings together three creative and 
 - Easy switching between modules
 - Fully offline – no API needed
 
+
+ ##Future Improvements
+Add text-to-speech for story prompts
+
+Save user session history
+
+Add dark/light theme toggle
+
+Deploy online for public access
+
 ## 🖼️ Screenshot
 
 ![App Screenshot](https://github.com/KhushiMittaliya/PromptGenerator_StoryGenerator_AIChatbotApp/assets/YOUR_SCREENSHOT.png)
