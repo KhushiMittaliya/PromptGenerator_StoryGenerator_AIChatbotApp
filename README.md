@@ -1,43 +1,26 @@
 # PromptGenerator_StoryGenerator_AIChatbotApp
 
-An AI-powered creative prompt generation system built using **Python**, developed in **Jupyter Notebook** and tested via **PyCharm**. This project offers a framework for generating business ideas, storytelling prompts, and chatbot conversation starters.
+An AI-powered Streamlit web application that brings together three creative and productivity tools in a single platform:
 
----
+- 🚀 **Business Idea Generator**: Instantly generate innovative startup ideas.
+- ✨ **Story Prompt Generator**: Create unique story plots and writing prompts.
+- 🤖 **AI Chatbot Assistant**: Ask technical questions, get answers instantly (suitable for programmers and learners).
 
-##  Overview
+## 🔥 Features
 
-This project includes three modular tools:
+- Interactive UI built with Streamlit
+- Clean and minimal layout
+- Easy switching between modules
+- Fully offline – no API needed
 
-- **Business Idea Generator**  
-  Creates innovative and scalable startup ideas based on industry, audience, and trends.
+## 🖼️ Screenshot
 
-- **Story Idea Generator**  
-  Generates engaging story prompts for writers, creators, and students using genre and theme-based input.
+![App Screenshot](https://github.com/KhushiMittaliya/PromptGenerator_StoryGenerator_AIChatbotApp/assets/YOUR_SCREENSHOT.png)
 
-- **AI Chatbot Prompt Set**  
-  Produces realistic and contextual conversation prompts for chatbot development.
+## 📦 Installation
 
----
-
-## Features
-
-- Structured prompt generation using user-defined categories  
-- Fully implemented in **Jupyter Notebook**  
-- Debugged and refined in **PyCharm**  
-- AI-friendly format that can integrate with LLMs like GPT  
-- Modular and expandable codebase
-
----
-
-## 🛠️ Technologies Used
-
-- Python  
-- Jupyter Notebook  
-- PyCharm  
-- Manual Prompt Engineering  
-- *(Optional for expansion)*: OpenAI API, Streamlit
-
-
-
-
-
+```bash
+git clone https://github.com/KhushiMittaliya/PromptGenerator_StoryGenerator_AIChatbotApp.git
+cd PromptGenerator_StoryGenerator_AIChatbotApp
+pip install -r requirements.txt
+streamlit run app.py
