@@ -26,6 +26,9 @@ Deploy online for public access
 ## 🖼️ Screenshot
 
 ![App Screenshot](https://github.com/KhushiMittaliya/PromptGenerator_StoryGenerator_AIChatbotApp/assets/YOUR_SCREENSHOT.png)
+ ### 📸 Screenshot
+
+![App Screenshot](https://raw.githubusercontent.com/KhushiMittaliya/PromptGenerator_StoryGenerator_AIChatbotApp/main/assets/your-image.png)
 
 ## 📦 Installation
 
